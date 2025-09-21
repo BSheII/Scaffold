@@ -10,14 +10,5 @@
         "runOn": "folderOpen"
       }
     },
-    {
-      "label": "Serve Rojo",
-      "type": "shell",
-      "command": "rojo serve",
-      "problemMatcher": [],
-      "runOptions": {
-        "runOn": "folderOpen"
-      }
-    },
  ]
 }
